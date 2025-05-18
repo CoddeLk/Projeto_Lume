@@ -36,8 +36,8 @@ Criada com base em princípios de empatia, autocuidado e saúde mental, **LUME n
 ##
 
 
+COMO RODAR A LUME ✨
 
-Como Rodar a LUME
 Este projeto foi desenvolvido para rodar no ambiente do Google Colab, aproveitando a integração entre Python e HTML/JavaScript.
 
 Clone ou Baixe o Repositório:
