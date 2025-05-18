@@ -33,7 +33,7 @@ Criada com base em princípios de empatia, autocuidado e saúde mental, **LUME n
 
 ## ⚠️ Importante:
 
-##
+
 
 
 COMO RODAR A LUME ✨
@@ -97,8 +97,9 @@ A LUME pode sugerir técnicas de relaxamento, música calma ou a prática de "es
 Exemplos: "estou estressado", "muita coisa na cabeça", "sobrecarregado", "me sentindo pressionado", "irritado", "no limite".
 
 A LUME oferecerá espaço para desabafar ou sugerirá pausas rápidas para alívio do stress.
+##
 
-<span style="color:#A855F7;">Sentimento Geral</span> / <span style="color:#3B82F6;">Precisa Conversar?</span>
+🌀 Sentimento Geral/🤝 Precisa Conversar?
 
 
 Exemplos: "como me sinto", "falar sobre mim", "conversar um pouco", "preciso desabafar", "não sei como me sinto", "não estou bem", "me sinto mal".
@@ -110,8 +111,11 @@ Você não precisa usar os gatilhos exatos, mas frases que contenham essas ideia
 Após a resposta inicial da LUME em alguns fluxos, ela pode apresentar opções numeradas. Você pode digitar o número correspondente à opção que deseja explorar.
 
 Para encerrar a conversa, você pode digitar palavras como "obrigado", "tchau", "sair", "encerrar", etc.
+##
 
-Em Caso de Emergência
+🚨 EM CASO DE EMERGÊNCIA 🚨
+
+
 A LUME NÃO é um substituto para atendimento profissional de saúde mental, especialmente em situações de crise ou emergência.
 
 Se você estiver passando por um momento de crise, tiver pensamentos suicidas ou sentir que sua vida ou a de outra pessoa está em risco, por favor, procure ajuda imediata:
@@ -123,6 +127,7 @@ Procure um pronto-socorro ou serviço de emergência médica.
 Entre em contato com um profissional de saúde mental ou alguém de confiança.
 
 A LUME foi programada para identificar mensagens que indicam risco e fornecerá o contato do CVV (188 no Brasil).
+##
 
 Contribuições
 Se você tiver sugestões para melhorar a LUME, sinta-se à vontade para abrir uma issue ou enviar um pull request neste repositório.
